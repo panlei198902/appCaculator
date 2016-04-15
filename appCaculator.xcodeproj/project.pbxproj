@@ -196,6 +196,11 @@
 				TargetAttributes = {
 					3BB1B68F1CBE7A76006B660E = {
 						CreatedOnToolsVersion = 7.2;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 0;
+							};
+						};
 					};
 					3BB1B6A31CBE7A76006B660E = {
 						CreatedOnToolsVersion = 7.2;
@@ -486,6 +491,7 @@
 				3BB1B6BA1CBE7A76006B660E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3BB1B6BB1CBE7A76006B660E /* Build configuration list for PBXNativeTarget "appCaculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +500,7 @@
 				3BB1B6BD1CBE7A76006B660E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3BB1B6BE1CBE7A76006B660E /* Build configuration list for PBXNativeTarget "appCaculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +509,7 @@
 				3BB1B6C01CBE7A76006B660E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
