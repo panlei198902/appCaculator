@@ -14,6 +14,7 @@
 		3BB1B69E1CBE7A76006B660E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BB1B69C1CBE7A76006B660E /* LaunchScreen.storyboard */; };
 		3BB1B6A91CBE7A76006B660E /* appCaculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB1B6A81CBE7A76006B660E /* appCaculatorTests.swift */; };
 		3BB1B6B41CBE7A76006B660E /* appCaculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB1B6B31CBE7A76006B660E /* appCaculatorUITests.swift */; };
+		3BB1B6C21CBE817C006B660E /* Brain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB1B6C11CBE817C006B660E /* Brain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3BB1B6AF1CBE7A76006B660E /* appCaculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appCaculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BB1B6B31CBE7A76006B660E /* appCaculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appCaculatorUITests.swift; sourceTree = "<group>"; };
 		3BB1B6B51CBE7A76006B660E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BB1B6C11CBE817C006B660E /* Brain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Brain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				3BB1B6931CBE7A76006B660E /* AppDelegate.swift */,
 				3BB1B6951CBE7A76006B660E /* ViewController.swift */,
 				3BB1B6971CBE7A76006B660E /* Main.storyboard */,
+				3BB1B6C11CBE817C006B660E /* Brain.swift */,
 				3BB1B69A1CBE7A76006B660E /* Assets.xcassets */,
 				3BB1B69C1CBE7A76006B660E /* LaunchScreen.storyboard */,
 				3BB1B69F1CBE7A76006B660E /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BB1B6961CBE7A76006B660E /* ViewController.swift in Sources */,
+				3BB1B6C21CBE817C006B660E /* Brain.swift in Sources */,
 				3BB1B6941CBE7A76006B660E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
