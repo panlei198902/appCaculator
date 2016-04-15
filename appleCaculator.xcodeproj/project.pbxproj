@@ -212,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3BB1B68B1CBE7A76006B660E /* Build configuration list for PBXProject "appCaculator" */;
+			buildConfigurationList = 3BB1B68B1CBE7A76006B660E /* Build configuration list for PBXProject "appleCaculator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -475,7 +475,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3BB1B68B1CBE7A76006B660E /* Build configuration list for PBXProject "appCaculator" */ = {
+		3BB1B68B1CBE7A76006B660E /* Build configuration list for PBXProject "appleCaculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3BB1B6B61CBE7A76006B660E /* Debug */,
